@@ -21,9 +21,16 @@ img{
 	margin: 0px;
 }
 
+/*Watermark*/
+
 footer {
 	margin-top: 50px;
 	text-align: right;
 	font-size: 2vh;
 	color: rgba(0, 0, 0, .3);
+}
+
+footer:hover {
+	color: rgba(29, 161, 242, 1.0);
+	font-size: 3vh;
 }
